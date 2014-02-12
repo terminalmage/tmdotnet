@@ -1,4 +1,4 @@
-Title: Printing to PDF in Mutt
+Title: The Reliability of X.Org
 Date: 2011-10-15 00:18
 Category: Blog
 Tags: linux
