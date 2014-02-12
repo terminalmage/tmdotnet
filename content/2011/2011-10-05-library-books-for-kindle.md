@@ -21,7 +21,7 @@ Once you login and go through the process of "checking out" a book, you will
 see a link saying **Get for Kindle**. Clicking this link will take you to a
 page where you can complete the checkout on Amazon.com.
 
-<div style="text-align:center" markdown="1">
+<div style='text-align:center' markdown='1'>
 ![Kindle Library Checkout](/images/kindle_library_checkout.png 'Kindle Library Checkout')
 </div>
 

@@ -6,8 +6,8 @@ Slug: 2011-10-15-the-reliability-of-xorg
 Author: Erik Johnson
 Summary: Wednesday's XKCD was funny as usual, but there was also quite a bit of truth to it. Since X.Org was forked from XFree86 several years ago...
 
-<div style='float: right; margin-left: 5px; margin-bottom: 5px;'>
-[Thomas Jefferson thought that every law and every constitution should be torn down and rewritten from scratch every nineteen years--which means X is overdue.](/images/xkcd963-x11.png 'Thomas Jefferson thought that every law and every constitution should be torn down and rewritten from scratch every nineteen years--which means X is overdue.')
+<div style='float: right; margin-left: 5px; margin-bottom: 5px;' markdown='1'>
+[![Thomas Jefferson thought that every law and every constitution should be torn down and rewritten from scratch every nineteen years--which means X is overdue.](/images/xkcd963-x11.png 'Thomas Jefferson thought that every law and every constitution should be torn down and rewritten from scratch every nineteen years--which means X is overdue.')](http://xkcd.com/963/)
 </div>
 
 Wednesday's XKCD was funny as usual, but there was also quite a bit of truth to

@@ -96,7 +96,9 @@ Below is an example of how the result will look. If you do not like the layout,
 you can alter it by passing different parameters to the **enscript** command.
 Check the manpage and experiment to find what works best for you.
 
+<div style='text-align:center' markdown='1'>
 ![Example PDF](/images/mutt_print.png 'Example PDF')
+</div>
 
 So, by replacing the print command with this script, instead of printing the
 message directly, your PDF viewer of choice will display the message for you.
