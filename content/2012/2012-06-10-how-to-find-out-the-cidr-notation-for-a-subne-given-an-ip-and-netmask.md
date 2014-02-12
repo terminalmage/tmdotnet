@@ -74,7 +74,7 @@ tool in most Linux distributions).
     Network:   56.78.120.0/22
 
 Let's make a programming exercise out of this, though. In Python, the bitwise
-operator is a single ampersand.
+AND operator is a single ampersand.
 
     :::python
     >>> 56 & 255
