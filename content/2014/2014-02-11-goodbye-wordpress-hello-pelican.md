@@ -2,7 +2,7 @@ Title: Goodbye WordPress, Hello Pelican
 Date: 2014-02-11 03:07
 Category: Blog
 Tags: news
-Slug: 2014-02-11-first-post
+Slug: 2014-02-11-goodbye-wordpress-hello-pelican
 Author: Erik Johnson
 Summary: I've switched from WordPress to Pelican!
 
