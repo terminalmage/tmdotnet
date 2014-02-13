@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Erik Johnson'
 SITENAME = u'TerminalMage dot NET'
-SITEURL = ''
+SITEURL = 'http://terminalmage.net'
 
 TIMEZONE = 'America/Chicago'
 
@@ -14,18 +14,24 @@ PYGMENTS_STYLE = 'solarizeddark'
 DEFAULT_LANG = u'en'
 CC_LICENSE = 'CC-BY-SA'
 
-# Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
+FEED_DOMAIN = 'http://feeds.terminalmage.net'
+FEED_ALL_ATOM = 'feeds/atom'
+FEED_ALL_RSS = 'feeds/rss'
+CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 TRANSLATION_FEED_ATOM = None
 
 # Links
 LINKS = (
+    ('Feed (RSS)', '{0}/rss'.format(FEED_DOMAIN)),
+    ('Feed (ATOM)', '{0}/atom'.format(FEED_DOMAIN)),
     ('SaltStack', 'http://saltstack.com/'),
 )
 
 # Social widget
-SOCIAL = (('Twitter', 'https://twitter.com/terminalmage'),)
+SOCIAL = (
+    ('Twitter', 'https://twitter.com/terminalmage'),
+)
 
 DEFAULT_PAGINATION = False
 
