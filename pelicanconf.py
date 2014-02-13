@@ -31,6 +31,7 @@ LINKS = (
 # Social widget
 SOCIAL = (
     ('Twitter', 'https://twitter.com/terminalmage'),
+    ('Google+', 'https://plus.google.com/+ErikJohnson'),
 )
 
 DEFAULT_PAGINATION = False
