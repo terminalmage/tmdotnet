@@ -2,7 +2,7 @@ Title: Setting a USB Headset as the Default PulseAudio Device Automatically Usin
 Date: 2011-11-17 01:35
 Category: Blog
 Tags: linux
-Slug: 2011-11-17-setting-a-usb-headset-as-the-default-pulseaudio-device
+Slug: 2011/11/17/setting-a-usb-headset-as-the-default-pulseaudio-device
 Author: Erik Johnson
 Summary: USB audio peripherals still don't "just work" in Linux, but they're starting to get a *little* easier to use.
 

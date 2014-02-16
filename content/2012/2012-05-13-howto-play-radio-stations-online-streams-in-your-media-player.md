@@ -2,7 +2,7 @@ Title: HOWTO: play radio stations' online streams in your media player
 Date: 2012-05-13 18:23
 Category: Blog
 Tags: linux
-Slug: 2012-05-13-howto-play-radio-stations-online-streams-in-your-media-player
+Slug: 2012/05/13/howto-play-radio-stations-online-streams-in-your-media-player
 Author: Erik Johnson
 Summary: I like to listen to streaming radio while I work. However, sometimes having a web browser open is too much of a temptation to just start browsing and ignore the work that needs to be done...
 

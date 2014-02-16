@@ -2,7 +2,7 @@ Title: Library Books for Kindle: Awesome, But Still Needs Work
 Date: 2011-10-05 22:05
 Category: Blog
 Tags: kindle
-Slug: 2011-10-05-library-books-for-kindle
+Slug: 2011/10/05/library-books-for-kindle
 Author: Erik Johnson
 Summary: Recently, Amazon announced their long-delayed deal to distribute Kindle books through local libraries...
 

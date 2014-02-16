@@ -2,7 +2,7 @@ Title: Clipboard Access from the Command Line with xsel/xclip
 Date: 2011-10-18 09:04
 Category: Blog
 Tags: linux, command-line-fu
-Slug: 2011-10-18-clipboard-access-from-the-command-line
+Slug: 2011/10/18/clipboard-access-from-the-command-line
 Author: Erik Johnson
 Summary: If you've ever found yourself wanting to copy the entire contents of a text file to the clipboard, you may end up doing something like the following...
 

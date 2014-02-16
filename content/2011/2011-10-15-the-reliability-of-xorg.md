@@ -2,7 +2,7 @@ Title: The Reliability of X.Org
 Date: 2011-10-15 00:18
 Category: Blog
 Tags: linux
-Slug: 2011-10-15-the-reliability-of-xorg
+Slug: 2011/10/15/the-reliability-of-xorg
 Author: Erik Johnson
 Summary: Wednesday's XKCD was funny as usual, but there was also quite a bit of truth to it. Since X.Org was forked from XFree86 several years ago...
 

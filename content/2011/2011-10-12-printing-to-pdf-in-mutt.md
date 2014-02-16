@@ -2,7 +2,7 @@ Title: Printing to PDF in Mutt
 Date: 2011-10-12 18:05
 Category: Blog
 Tags: linux, mutt
-Slug: 2011-10-12-printing-to-pdf-in-mutt
+Slug: 2011/10/12/printing-to-pdf-in-mutt
 Author: Erik Johnson
 Summary: When using my netbook, I don't typically have a printer available. My printer is connected to my wife's desktop computer which doesn't stay on all the time...
 

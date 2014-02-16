@@ -2,7 +2,7 @@ Title: How to Find Out the CIDR Notation for a Subnet, Given an IP and Netmask
 Date: 2012-06-10 22:50
 Category: Blog
 Tags: networking, programming, python
-Slug: 2012-06-10-how-to-find-out-the-cidr-notation-for-a-subnet-given-an-ip-and-netmask
+Slug: 2012/06/10/how-to-find-out-the-cidr-notation-for-a-subnet-given-an-ip-and-netmask
 Author: Erik Johnson
 Summary: I like to listen to streaming radio while I work. However, sometimes having a web browser open is too much of a temptation to just start browsing and ignore the work that needs to be done...
 
