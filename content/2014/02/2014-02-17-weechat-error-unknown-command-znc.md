@@ -4,9 +4,9 @@ Category: Blog
 Tags: weechat, znc, linux
 Slug: 2014/02/17/weechat-error-unknown-command-znc
 Author: Erik Johnson
-Summary: The [ZNC Wiki](http://wiki.znc.in/) references a **/znc** command often (**/znc detach**, **/znc \*modname foo **). When I initially set up ZNC a while back, I kept getting an error when trying to use this command...
+Summary: The [ZNC Wiki](http://wiki.znc.in/) references a **/znc** command often (**/znc detach**, **/znc \*modname help,**, etc.). When I initially set up ZNC a while back, I kept getting an error when trying to use this command...
 
-The [ZNC Wiki](http://wiki.znc.in/) references a **/znc** command often (**/znc detach**, **/znc \*modname foo**, etc.). When I initially set up ZNC a while back, I kept getting an error when trying to use this command:
+The [ZNC Wiki](http://wiki.znc.in/) references a **/znc** command often (**/znc detach**, **/znc \*modname help**, etc.). When I initially set up ZNC a while back, I kept getting an error when trying to use this command:
 
     :::
     15:19:42 weechat =!= Error: unknown command "znc" (type /help for help)
