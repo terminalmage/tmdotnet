@@ -12,9 +12,14 @@ The [ZNC Wiki](http://wiki.znc.in/) references a **/znc** command often (**/znc 
     15:19:42 weechat =!= Error: unknown command "znc" (type /help for help)
 
 <br>
-It turns out that support for this command seems to be implemented on a
+I eventually gave up and went back to running [WeeChat](http://weechat.org/)
+from within a [tmux]([WeeChat](http://weechat.org/)) session.
+
+<br>
+This past weekend, I gave ZNC another go. After a bit of troubleshooting, I
+found that support for this command seems to be implemented on a
 client-by-client basis, and [WeeChat](http://weechat.org/) simply did not
-support it. However, the usage of **/znc** is simply a replacement for **/quote
+support it. However, the usage of **/znc** is simply a shortcut for **/quote
 znc**. Therefore, it is a simple matter of creating an alias in
 [WeeChat](http://weechat.org/) (and saving the configuration so the alias is
 available next time [WeeChat](http://weechat.org/) starts):
@@ -26,4 +31,5 @@ available next time [WeeChat](http://weechat.org/) starts):
     /save
 
 <br>
-After doing this, it is possible to detach using **/znc detach #channel\_name**.
+After doing this, it is possible to detach from a channel using
+**/znc detach #channel\_name**.
