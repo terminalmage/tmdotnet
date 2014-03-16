@@ -57,7 +57,6 @@ the message and display it in plaintext. I'm using
 capable of performing the same "dump" action as well.
 
 
-And that's really all you need to do. With these minor configuration tweaks,
-even HTML-only email will look nice in [Mutt](http://www.mutt.org), and you'll
-still have the flexibility of opening the message in a GUI web browser if you
-desire.
+And that's really all you need to do. With these tweaks, even HTML-only email
+will look nice in [Mutt](http://www.mutt.org), and you'll still have the
+flexibility of opening the message in a GUI web browser if you desire.
