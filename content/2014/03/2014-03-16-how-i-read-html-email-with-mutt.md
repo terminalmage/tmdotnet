@@ -20,7 +20,8 @@ setup can be achieved:
 
 1. Multi-part messages with both **text/plain** and **text/html** parts will
    display the **text/plain** message part.
-2. Single-part text/html messages will be passed through a
+2. Single-part **text/html** messages will be passed through a text web browser
+   to be rendered to plaintext.
 
 In either case, it will still be possible to go to the Attachments view and
 open the message in an external browser.
