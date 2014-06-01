@@ -22,6 +22,7 @@ CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 TRANSLATION_FEED_ATOM = None
 
+
 # Links
 LINKS = (
     ('Feed (RSS)', '{0}/rss'.format(FEED_DOMAIN)),
