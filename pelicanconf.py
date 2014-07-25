@@ -6,7 +6,6 @@ AUTHOR = u'Erik Johnson'
 SITENAME = u'TerminalMage dot NET'
 SITEURL = 'http://terminalmage.net'
 
-
 TIMEZONE = 'America/Chicago'
 
 THEME = '/home/erik/pelican/themes/pelican-bootstrap3'
