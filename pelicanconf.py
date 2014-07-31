@@ -14,6 +14,7 @@ PYGMENTS_STYLE = 'solarizeddark'
 DEFAULT_LANG = u'en'
 CC_LICENSE = 'CC-BY-SA'
 
+
 # Feed stuff
 FEED_DOMAIN = 'http://feeds.terminalmage.net'
 FEED_ALL_ATOM = 'feeds/atom'
