@@ -1,7 +1,7 @@
 Title: How to Fix LTE on HTC EVO 4G LTE (Ting)
 Date: 2014-08-16 15:17:56
 Category: Blog
-Tags: linux, mutt
+Tags: android, ting
 Slug: 2014/08/16/how-to-fix-lte-on-htc-evo-4g-lte-ting
 Author: Erik Johnson
 Summary: I recently switched to [Ting](https://ting.com/) in order to save about $120/month on our family's cell phone bill...
