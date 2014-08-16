@@ -22,4 +22,4 @@ configuration, I just made a new one by hitting the plus sign.
 
 Lastly, there is no need to install a search app to find where the access point
 names are configured. If you are running CM 11, they can be found under
-**Settings\ ->\ Mobile Networks\ ->\ Access Point Names**.
+**Settings -> Mobile Networks -> Access Point Names**.
