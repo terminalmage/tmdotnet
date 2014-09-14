@@ -30,5 +30,5 @@ are as follows:
 
 <br>
 
-I also unchecked the **Voicemail** box since I wasn't going to be using Ting
-voicemail, but this is probably not necessary.
+I also unchecked the **Voicemail** box since I wasn't going to be using
+[Ting](https://ting.com/) voicemail, but this is probably not necessary.
