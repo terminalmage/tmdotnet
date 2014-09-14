@@ -1,5 +1,5 @@
 Title: Using Google Voice's Voicemail with Ting
-Date: 2014-08-16 15:17:56
+Date: 2014-09-14 18:25:00
 Category: Blog
 Tags: ting, google voice
 Slug: 2014/09/14/using-google-voices-voicemail-with-ting
