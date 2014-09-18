@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+
 AUTHOR = u'Erik Johnson'
 SITENAME = u'TerminalMage dot NET'
 SITEURL = 'http://terminalmage.net'
