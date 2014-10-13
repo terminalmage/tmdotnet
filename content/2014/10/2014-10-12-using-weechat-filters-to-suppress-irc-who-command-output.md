@@ -1,5 +1,5 @@
 Title: Using WeeChat Filters to Suppress IRC "WHO" Command Output
-Date: 2014-10-12 18:25:00
+Date: 2014-10-12 19:48:00
 Category: Blog
 Tags: weechat
 Slug: 2014/10/12/using-weechat-filters-to-suppress-irc-who-command-output
